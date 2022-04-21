@@ -1,0 +1,5 @@
+[
+      { id: 'id-1', text: 'learn react', completes: false },
+      { id: 'id-2', text: 'find out work', completes: false },
+      { id: 'id-3', text: 'enjoy work a nd salary', completes: false },
+    ]
